@@ -1,0 +1,2 @@
+# Supradyn_eTicaret
+yazMühProjesi
