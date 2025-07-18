@@ -19,10 +19,6 @@ const User = sequelize.define('User', {
     type: DataTypes.STRING,
     allowNull: false,
   },
-  deviceToken: {
-    type: DataTypes.STRING,
-    allowNull: true,
-  },
   createdAt: {
     type: DataTypes.DATE,
     defaultValue: DataTypes.NOW,
