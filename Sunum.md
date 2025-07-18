@@ -5,4 +5,6 @@
 
 ** Redis ve RabbitMq Açıklaması **
 
+[https://www.youtube.com/shorts/qDZbKHQhe1A]
+
 
