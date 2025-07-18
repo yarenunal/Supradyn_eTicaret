@@ -5,4 +5,4 @@
 
 ** Redis ve RabbitMq Açıklaması **
 
-[https://studio.youtube.com/video/PxGmgl-AQjQ/edit]
+
